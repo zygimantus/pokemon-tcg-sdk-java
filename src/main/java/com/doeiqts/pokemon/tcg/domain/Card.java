@@ -1,8 +1,8 @@
 package com.doeiqts.pokemon.tcg.domain;
 
-public abstract class Card {
+public class Card {
     private String name;
-    private String set; // Should this be an enum? (probably)
+    private Set set;
     private String number;
     private Rarity rarity;
     private String image; // Should this be URL?

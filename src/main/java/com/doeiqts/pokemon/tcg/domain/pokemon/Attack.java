@@ -1,4 +1,4 @@
-package com.doeiqts.pokemon.tcg.domain;
+package com.doeiqts.pokemon.tcg.domain.pokemon;
 
 import java.util.List;
 

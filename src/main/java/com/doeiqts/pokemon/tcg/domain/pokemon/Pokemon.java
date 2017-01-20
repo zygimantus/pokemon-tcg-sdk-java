@@ -1,6 +1,7 @@
 package com.doeiqts.pokemon.tcg.domain.pokemon;
 
 import com.doeiqts.pokemon.tcg.domain.Card;
+import com.doeiqts.pokemon.tcg.domain.Type;
 
 import java.util.List;
 

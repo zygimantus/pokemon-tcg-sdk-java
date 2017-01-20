@@ -1,6 +1,6 @@
 package com.doeiqts.pokemon.tcg.domain.energy;
 
-import com.doeiqts.pokemon.tcg.domain.pokemon.Type;
+import com.doeiqts.pokemon.tcg.domain.Type;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.doeiqts.pokemon.tcg.domain.pokemon;
+package com.doeiqts.pokemon.tcg.domain;
 
 public enum Type {
     COLORLESS("Colorless"),

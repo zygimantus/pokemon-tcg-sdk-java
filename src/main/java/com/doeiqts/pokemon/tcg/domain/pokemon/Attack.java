@@ -1,5 +1,7 @@
 package com.doeiqts.pokemon.tcg.domain.pokemon;
 
+import com.doeiqts.pokemon.tcg.domain.Type;
+
 import java.util.List;
 
 public class Attack {

@@ -2,10 +2,12 @@ package com.doeiqts.pokemon.tcg.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonRootName;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
+@JsonRootName(value = "card")
 public class Card {
     @JsonProperty("id")
     private String id;

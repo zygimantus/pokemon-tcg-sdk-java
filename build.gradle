@@ -17,6 +17,7 @@ repositories {
 
 dependencies {
     compile 'com.fasterxml.jackson.core:jackson-databind:2.8.6'
+    compile 'com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.8.6'
     compile 'com.sun.jersey:jersey-client:1.19.3'
     compile 'com.sun.jersey:jersey-json:1.19.3'
 

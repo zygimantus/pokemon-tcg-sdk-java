@@ -3,15 +3,12 @@ package com.doeiqts.pokemon.tcg.sdk;
 import com.doeiqts.pokemon.tcg.domain.Card;
 import com.doeiqts.pokemon.tcg.domain.Rarity;
 import com.doeiqts.pokemon.tcg.domain.Set;
-import com.sun.jersey.api.client.config.ClientConfig;
-import com.sun.jersey.api.client.config.DefaultClientConfig;
 import com.sun.jersey.core.util.MultivaluedMapImpl;
-import org.junit.Assert;
-import org.junit.Test;
-
-import javax.ws.rs.core.MultivaluedMap;
 import java.util.ArrayList;
 import java.util.List;
+import javax.ws.rs.core.MultivaluedMap;
+import org.junit.Assert;
+import org.junit.Test;
 
 public class CardFactoryTest {
 
